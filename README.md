@@ -1,6 +1,7 @@
 # hiimimi
 
-A new Flutter project.
+Daily Task App, Flutter Fire Project.
+ranggaicaforever.
 
 ## Getting Started
 
