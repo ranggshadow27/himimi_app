@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "925388015145",
+    "project_id": "hi-mimi",
+    "storage_bucket": "hi-mimi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925388015145:android:22742bdecccac80e563e38",
+        "android_client_info": {
+          "package_name": "com.ranggicaa4ever.hiimimi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925388015145-ir93o9o5je96pgra68hfdi6u6n2iha9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_PmWgvbzC7vPH24aIO4ES50sTYOZicSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925388015145-ir93o9o5je96pgra68hfdi6u6n2iha9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
